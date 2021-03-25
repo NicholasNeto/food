@@ -17,7 +17,7 @@ interface InputProps {
   placeholder: string,
 }
 
-function Input({ name, icon: Icon, ...rest }: InputProps ){
+export function Input({ name, icon: Icon, ...rest }: InputProps ){
  
 
   const inputRef = React.useRef<HTMLInputElement>(null) 
@@ -59,4 +59,4 @@ function Input({ name, icon: Icon, ...rest }: InputProps ){
   );
 };
 
-export default Input;
+
