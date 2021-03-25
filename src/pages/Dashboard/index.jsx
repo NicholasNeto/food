@@ -112,8 +112,8 @@ class Dashboard extends Component {
               <Food
                 key={food.id}
                 food={food}
-                handleDelete={this.handleDeleteFood}
-                handleEditFood={this.handleEditFood}
+                onHandleDelete={this.handleDeleteFood}
+                onHandleEditFood={this.handleEditFood}
               />
             ))}
         </FoodsContainer>
