@@ -8,19 +8,23 @@ import { Modal } from '../Modal';
 import { Input } from '../Input';
 
 
+
+interface InputFoodType {
+  id: number,
+  name: string;
+  description: string;
+  price: number;
+  available: boolean;
+  image: string;
+}
 interface ModalEditFoodProps {
   isOpen: boolean;
   setIsOpen: () => void;
-  handleUpdateFood: (data: FoodInputProps) => void;
+  handleUpdateFood:  (data: InputFoodType) => Promise<void>;
   editingFood: {};
 }
 
-interface FoodInputProps {
-  name: string;
-  image: string;
-  price: string;
-  description: string
-}
+
 
 
 
@@ -29,7 +33,7 @@ export default function ModalEditFood({ isOpen, setIsOpen, editingFood, handleUp
 
   const formRef = useRef<FormHandles>(null)
 
-  async function handleSubmit(data: FoodInputProps) {
+  async function handleSubmit(data: InputFoodType) {
     handleUpdateFood(data);
     setIsOpen();
   };
