@@ -25,9 +25,6 @@ interface ModalEditFoodProps {
 }
 
 
-
-
-
 export default function ModalEditFood({ isOpen, setIsOpen, editingFood, handleUpdateFood }: ModalEditFoodProps) {
 
 
