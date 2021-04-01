@@ -14,11 +14,9 @@ interface FoodType {
   available: boolean;
   image: string;
 }
-
-
 interface FoodProps {
   food: FoodType;
-  onHandleDelete: (id: number) => void;
+  onHandleDelete: (id: number) => Promise<void>;
   onHandleEditFood: (food: FoodType) => void;
 
 }
