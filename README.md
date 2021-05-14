@@ -28,8 +28,12 @@
 <section id='content' >
 
   ## Conteúdo
+
+  <ul>
+    <li><a href="#projectStatus">Sattus da Aplicação</a></li>
+  </ul>
   <p align="center">
-      <a href="#projectStatus">Sattus da Aplicação</a>
+      <!-- <li><a href="#projectStatus">Sattus da Aplicação</a></li> -->
       <a href="#requirements">Pré-requisitos</a>
       <a href="#runningServer">Rodando o Aplicação (Server)</a>
       <a href="#runningApp">Rodando o Aplicação (Web)</a>
