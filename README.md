@@ -42,6 +42,7 @@
 </section>
 
 <section id='projectStatus' >
+
   ## Status Projeto
   <h4 align="center"> 
     😋 Concluído  🍔 🌮 🍱 
