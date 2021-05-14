@@ -21,7 +21,9 @@
 </p>
 
 <div display=flex align="center">
-  <img alt="Version" src="https://media.giphy.com/media/uHcs6ijl7GUfNfF5xH/giphy.gif" />
+  <img alt="site food" src="/assets/food_imag3" />
+  <img alt="site food" src="/assets/food_imag1" />
+  <img alt="site food" src="/assets/food_imag2" />
 </div>
 
 <section id='content' >
