@@ -29,7 +29,7 @@
 
   ## Conteúdo
 
-  <ul align="center">
+  <ul>
     <li><a href="#projectStatus">Sattus da Aplicação</a></li>
     <li><a href="#requirements">Pré-requisitos</a></li>
     <li><a href="#runningServer">Rodando o Aplicação (Server)</a></li>
