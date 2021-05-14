@@ -24,6 +24,7 @@
   <img alt="site food" width="500" height="300" src="/src/assets/food.png" />
   <img alt="site food" width="500" height="300" src="/src/assets/newFood.png" />
   <img alt="site food" width="500" height="300" src="/src/assets/inativFood.png" />
+  <img alt="site food" width="500" height="300" src="/src/assets/teste.jpeg" />
 </div>
 
 <section id='content' >
