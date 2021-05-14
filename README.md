@@ -20,7 +20,7 @@
   <img alt='Twitter' src='https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FNicholasNeto%2Ffood' />
 </p>
 
-<div display=flex align="center" background-color='gray'>
+<div display=flex align="center">
   <img alt="site food" width="500" height="300" src="/src/assets/food.png" />
   <img alt="site food" width="500" height="300" src="/src/assets/newFood.png" />
   <img alt="site food" width="500" height="300" src="/src/assets/inativFood.png" />
