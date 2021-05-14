@@ -21,7 +21,7 @@
 </p>
 
 <div display=flex align="center">
-  <img alt="site food" width="100" height="100" src="/src/assets/food.png" />
+  <img alt="site food" width="200" height="200" src="/src/assets/food.png" />
   <!-- <img alt="site food" width="200" height="100" src="/src/assets/food_imag1.png" />
   <img alt="site food" width="200" height="100" src="/src/assets/food_imag2.png" /> -->
 </div>
