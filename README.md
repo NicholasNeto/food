@@ -29,22 +29,19 @@
 
   ## Conteúdo
 
-  <ul>
+  <ul align="center">
     <li><a href="#projectStatus">Sattus da Aplicação</a></li>
+    <li><a href="#requirements">Pré-requisitos</a></li>
+    <li><a href="#runningServer">Rodando o Aplicação (Server)</a></li>
+    <li><a href="#runningApp">Rodando o Aplicação (Web)</a></li>
+    <li><a href="#runningTest">Rodando os Teste (Unitários)</a></li>
+    <li><a href="#technology">Tecnologias</a></li>
+    <li><a href="#author">Autor</a></li>
   </ul>
-  <p align="center">
-      <!-- <li><a href="#projectStatus">Sattus da Aplicação</a></li> -->
-      <a href="#requirements">Pré-requisitos</a>
-      <a href="#runningServer">Rodando o Aplicação (Server)</a>
-      <a href="#runningApp">Rodando o Aplicação (Web)</a>
-      <a href="#runningTest">Rodando os Teste (Unitários)</a>
-      <a href="#technology">Tecnologias</a>
-      <a href="#author">Autor</a>
-  </p>
+
 </section>
 
 <section id='projectStatus' >
-
   ## Status Projeto
   <h4 align="center"> 
     😋 Concluído  🍔 🌮 🍱 
