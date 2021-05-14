@@ -9,7 +9,7 @@
 <p>
   Projeto que tem como objetivo aprimoramento de conhecimento em React. Um dos principais objetivos foi criar uma estrategia de refactoring
   de JavaSCript arquivos( JSX e JS ) para TypeScript arquivos (JSX e TS) e passar os componentes de class components para function components,
-  utilizando Hooks.
+  utilizando React Hooks.
 </p>
 
 <p align="center">
