@@ -23,7 +23,7 @@
 <div display=flex align="center" background-color='gray'>
   <img alt="site food" width="500" height="300" src="/src/assets/food.png" />
   <img alt="site food" width="500" height="300" src="/src/assets/newFood.png" />
-  <img alt="site food" width="200" height="100" src="/src/assets/food_imag2.png" />
+  <img alt="site food" width="500" height="300" src="/src/assets/inativFood.png" />
 </div>
 
 <section id='content' >
