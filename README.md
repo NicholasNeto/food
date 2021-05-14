@@ -1,5 +1,5 @@
 <div align='center'>
-  <img alt="Banner" width="400" height="300" src="/src/assets/logo.svg" />
+  <img alt="Banner" width="200" height="300" src="/src/assets/logo.svg" />
 </div>
 
 
@@ -21,9 +21,9 @@
 </p>
 
 <div display=flex align="center">
-  <img alt="site food" src="/src/assets/food_imag3.png" />
-  <img alt="site food" src="/src/assets/food_imag1.png" />
-  <img alt="site food" src="/src/assets/food_imag2.png" />
+  <img alt="site food" width="200" height="100" src="/src/assets/food_imag3.png" />
+  <img alt="site food" width="200" height="100" src="/src/assets/food_imag1.png" />
+  <img alt="site food" width="200" height="100" src="/src/assets/food_imag2.png" />
 </div>
 
 <section id='content' >
