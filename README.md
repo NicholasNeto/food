@@ -21,9 +21,9 @@
 </p>
 
 <div display=flex align="center">
-  <img alt="site food" src="/assets/food_imag3" />
-  <img alt="site food" src="/assets/food_imag1" />
-  <img alt="site food" src="/assets/food_imag2" />
+  <img alt="site food" src="/assets/food_imag3.png" />
+  <img alt="site food" src="/assets/food_imag1.png" />
+  <img alt="site food" src="/assets/food_imag2.png" />
 </div>
 
 <section id='content' >
