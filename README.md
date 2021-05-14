@@ -7,8 +7,8 @@
 
 ## Descrição do Projeto
 <p>
-  Projeto que tem como objetivo aprimoramento de conhecimento em React. Um dos principais objetivos foi criar uma estrategia de refactoring
-  de JavaSCript arquivos( JSX e JS ) para TypeScript arquivos (JSX e TS) e passar os componentes de class components para function components,
+  Projeto que tem como objetivo aprimoramento de conhecimento em React. Um dos principais objetivos foi criar uma estratégia de refactoring
+  de JavaSCript arquivos( JSX e JS ) para TypeScript arquivos (TSX e TS) e passar os componentes de class components para function components,
   utilizando React Hooks.
 </p>
 
@@ -21,10 +21,8 @@
 </p>
 
 <div display=flex align="center">
-  <img alt="site food" width="500" height="300" src="/src/assets/food.png" />
+  <img alt="site food" width="500" height="300" src="/src/assets/goRestaurant.png" />
   <img alt="site food" width="500" height="300" src="/src/assets/newFood.png" />
-  <img alt="site food" width="500" height="300" src="/src/assets/inativFood.png" />
-  <img alt="site food" width="500" height="300" src="/src/assets/teste.jpeg" />
 </div>
 
 <section id='content' >
