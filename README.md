@@ -32,6 +32,7 @@
   <p align="center">
       <a href="#projectStatus">Sattus da Aplicação</a>
       <a href="#requirements">Pré-requisitos</a>
+      <a href="#runningServer">Rodando o Aplicação (Server)</a>
       <a href="#runningApp">Rodando o Aplicação (Web)</a>
       <a href="#runningTest">Rodando os Teste (Unitários)</a>
       <a href="#technology">Tecnologias</a>
@@ -61,7 +62,7 @@ Além disto, é bom ter um editor para trabalhar com o código como [VSCode](htt
 </section>
 
 
-<section id='runningApp'>
+<section id='runningServer'>
 
   ### Rodando o Aplicação (Server)
 
